@@ -3,11 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{5029E41F-E525-4811-8CA6-67D470CE15FC}"
-	ProjectSection(SolutionItems) = preProject
-		tools\packages.config = tools\packages.config
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DEB8CB52-25A4-4ED1-8736-DE5BAA7EB230}"
 	ProjectSection(SolutionItems) = preProject
 		appveyor.yml = appveyor.yml
