@@ -1,0 +1,31 @@
+﻿{
+  "description": "Quarks.Runtime",
+  "frameworks": {
+    "net45": {
+    },
+    "netstandard1.5": {
+      "dependencies": {
+        "System.Linq": "4.1.0",
+        "System.Linq.Expressions": "4.1.0",
+        "System.Runtime": "4.1.0",
+        "System.Runtime.InteropServices": "4.1.0"
+      }
+    }
+  },
+  "packOptions": {
+    "authors": [ "victor.govorov" ],
+    "iconUrl": "https://github.com/govorovvs/Quarks.Runtime/blob/master/logo.png?raw=true",
+    "owners": [ "victor.govorov" ],
+    "projectUrl": "https://github.com/govorovvs/Quarks.Runtime",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/govorovvs/Quarks.Runtime.git"
+    },
+    "tags": [ "quarks", "architecture", "runtime" ]
+  },
+  "title": "Quarks.Runtime",
+  "version": "0.1.0-*",
+  "buildOptions": {
+    "xmlDoc": true
+  }
+}

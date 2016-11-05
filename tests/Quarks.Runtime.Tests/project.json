@@ -1,0 +1,15 @@
+﻿{
+  "dependencies": {
+    "dotnet-test-nunit": "3.4.0-beta-2",
+    "Moq": "4.5.23",
+    "NUnit": "3.5.0",
+    "Quarks.Runtime": "0.1.0-*",
+    "JetBrains.Annotations": "10.2.1"
+  },
+  "frameworks": {
+    "net46": {
+    }
+  },
+  "testRunner": "nunit",
+  "version": "1.0.0-*"
+}
